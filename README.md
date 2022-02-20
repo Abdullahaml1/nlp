@@ -8,3 +8,5 @@
 * [Coursatai youtube channel](https://www.youtube.com/channel/UCBJVn0Wdpy-Ovp0ewV5jqRQ)
 * [NLP courstaai](https://coursat-ai.github.io/NLP/)
 * [NLP courstatai youtube playlist](https://www.youtube.com/playlist?list=PLX2D7RnWrLv7qGcUl_MOpC74tH5f30mCC)
+
+*[FICH ocw](https://www.youtube.com/user/FCIHOCW/playlists)
