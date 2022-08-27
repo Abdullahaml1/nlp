@@ -2,6 +2,7 @@
 
 # Resources
 
+* [Big Ai resource form Universty course "Deep  Learning Drizzle"](https://deep-learning-drizzle.github.io/)
 * [Moustafa Khairi's Article](https://medium.com/@MustafaAwny/data-stack-and-machine-learning-computer-vision-and-nlp-best-resources-for-beginners-4d3c5af901a8)
 * [Dr Ahmed El-sallab](https://ahmadelsallab.github.io/personal/)
 * [coursat AI Dr Ahmed El-sallab](http://coursat.ai/)
