@@ -32,5 +32,11 @@ RUN echo $'# Node and npm  \n\
 export PATH=/root/node-v16.17.0-linux-x64/bin${PATH:+:${PATH}}' >> /root/.bashrc
 RUN pip3 install jedi
 
+# Confuguring ssh
+
+RUN sed -i 's/#PermitRootLogin prohibit-password/PermitRootLogin yes/' /etc/ssh/sshd_config
+CMD /etc/init.d/ssh start #/etc/init.d/ssh start
+
+
 
 WORKDIR /root

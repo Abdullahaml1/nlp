@@ -1,5 +1,14 @@
 # NLP Learning 
 
+## Noman Chonsky: Computational langustics (science) vs natatural langugae processing (engineering) [video](https://www.youtube.com/watch?v=QUZg-fXp1y8)
+
+## The language of computational languagstics Tedx [video](https://www.youtube.com/watch?v=NkOO6n0pZIU&t=633s)
+
+* The comutatinal langusistics is the field of trying to understand the human language by understanding the underlaying consepss (science). 
+* NLP is about to find patterns in data to make a usefual application using pattern recognition, ML, and DL.
+* We made models with reasonalbe accuracy, but we are fare away of understanding how these models acually work, rather than how the human language work.
+
+
 # Resources
 
 * [Big Ai resource form Universty course "Deep  Learning Drizzle"](https://deep-learning-drizzle.github.io/)
