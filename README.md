@@ -1,5 +1,7 @@
 # NLP Learning 
 
+## Computational Linguistics Home work [link](https://github.com/Abdullahaml1/computational-linguistics-hw)
+
 ## Noman Chonsky: Computational langustics (science) vs natatural langugae processing (engineering) [video](https://www.youtube.com/watch?v=QUZg-fXp1y8)
 
 ## The language of computational languagstics Tedx [video](https://www.youtube.com/watch?v=NkOO6n0pZIU&t=633s)
