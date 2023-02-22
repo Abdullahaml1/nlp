@@ -38,7 +38,7 @@ nnoremap <C-t> :NERDTreeToggle<CR>
 nmap <F8> :TagbarToggle<CR>
 
 " color scheme
-colorscheme molokai
+colorscheme onedark
 " hi Comment ctermfg=226  guifg=#ffff00   changing comment color 
 " link: https://stackoverflow.com/questions/70432885/changing-the-comments-colors-molokai
 
